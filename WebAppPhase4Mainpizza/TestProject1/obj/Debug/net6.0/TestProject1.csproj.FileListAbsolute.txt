@@ -1,0 +1,5 @@
+C:\Users\sss\source\repos\WebAppPhase4Mainpizza\TestProject1\obj\Debug\net6.0\TestProject1.csproj.AssemblyReference.cache
+C:\Users\sss\source\repos\WebAppPhase4Mainpizza\TestProject1\obj\Debug\net6.0\TestProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sss\source\repos\WebAppPhase4Mainpizza\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfoInputs.cache
+C:\Users\sss\source\repos\WebAppPhase4Mainpizza\TestProject1\obj\Debug\net6.0\TestProject1.AssemblyInfo.cs
+C:\Users\sss\source\repos\WebAppPhase4Mainpizza\TestProject1\obj\Debug\net6.0\TestProject1.csproj.CoreCompileInputs.cache
